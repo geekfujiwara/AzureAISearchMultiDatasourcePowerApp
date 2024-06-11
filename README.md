@@ -82,12 +82,6 @@ Attachemnts Grid はGitHub上に[ソリューション](https://github.com/BenLB
 
 ### Azure OpenAI のエンドポイント及びAPI キー
 
-[公式ドキュメント](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/import-update-export-solutions)を参考にZIPファイル形式のままソリューションをインポートしてください。
-
-インポート時に聞かれる環境変数は[Azure OpenAI Studio](https://oai.azure.com/) から取得するようにしてください。
-
-![image](https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/a9fce1e9-b2de-44f1-bbb5-030ef2b72aca)
-
 チャットプレイグラウンドからコードの表示と進めると確認できます。
 
 ![image](https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/6d323025-2202-4ce6-8e8b-b35a98e1fefe)
