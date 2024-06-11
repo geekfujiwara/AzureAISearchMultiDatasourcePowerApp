@@ -1,6 +1,9 @@
 # 複数データソースに対応したチャットアプリ
 Azure OpenAIを利用したチャットのPower Apps インターフェイスにて、各種データソースに対して検索を行うことができるアプリです。単独で利用できるDataverse、SharePoint、OneDriveのほか、Azure AI Search 経由の各種データソースに対してRAGを簡単に実現することができます。
 
+> [!NOTE]
+> 作成したよ、という方はぜひ[ギークフジワラのXアカウント](https://x.com/geekfujiwara/status/1800461683368026323)までご連絡ください！
+
 ## アプリの概要
 
 * Azure OpenAI Searvice (GPT-4o推奨) を利用して、検索クエリの作成、検索結果の要約を行っています。
