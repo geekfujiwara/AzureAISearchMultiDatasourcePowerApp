@@ -131,6 +131,7 @@ APIキーを生成して出力することを推奨します。
 
 アプリを実行できます。Enjoy!
 
+![image](https://github.com/geekfujiwara/AzureAISearchMultiDatasourcePowerApp/assets/96101315/fd6d7578-3530-4215-8de6-4c31fbfdae6d)
 
 
 以上、ご参考になれば幸いです。
