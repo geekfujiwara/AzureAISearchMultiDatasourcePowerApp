@@ -2,7 +2,7 @@
 Power Apps をインターフェイスとして、各種データソースに対して検索を行うことができるアプリです。Dataverse、SharePoint、OneDriveのほか、Azure AI Search 経由の各種データソースに対してRAGを簡単に実現することができます。
 
 > [!NOTE]
-> 作成したよ、という方はぜひ[ギークフジワラのXアカウント](https://x.com/geekfujiwara/status/1800461683368026323)までご連絡ください！
+> 作成したよ、という方はぜひ[ギークフジワラのXアカウント](https://x.com/geekfujiwara/status/1800463571169804761?s=46&t=X4PQ4pTx14WnUTLP_ysSJw)までご連絡ください！
 
 ## アプリの概要
 
